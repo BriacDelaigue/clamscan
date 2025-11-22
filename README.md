@@ -2,6 +2,7 @@
 
 ClamScan is a Chrome extension that allows users to scan files and URLs for viruses using the ClamScan backend API. All scanning is handled directly in the popup window. Users can upload files, paste URLs, or right-click on links to prepare a scan.
 
+<img width="640" height="400" alt="clamscan" src="https://github.com/user-attachments/assets/b0d3e6ea-ef7d-4d8f-a4b8-ec3945ba6aef" />
 
 ## Features
 
